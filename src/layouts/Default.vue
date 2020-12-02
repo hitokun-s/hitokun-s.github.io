@@ -16,28 +16,27 @@ export default {
     Header, Footer
   },
   metaInfo() {
-    console.log(this)
     return {
       titleTemplate: "%s - Hitokun's",
       meta: [
         { property: `og:locale`, content: `en_EN` },
         {name: 'author', content: 'Toshi'},
-        { key: `og:type`, property: `og:type`, content: `website` },
-        {
-          key: `og:site_name`,
-          property: `og:site_name`,
-          content: `Hitokun's`,
-        },
-        {
-          key: `og:title`,
-          property: `og:title`,
-          content: `Hitokun's`,
-        },
-        {
-          key: `og:image`,
-          property: `og:image`,
-          content: `https://hitokun-s.github.io/images/${this.meta?.image || "self.jpg"}`,
-        },
+        // { key: `og:type`, property: `og:type`, content: `website` },
+        // {
+        //   key: `og:site_name`,
+        //   property: `og:site_name`,
+        //   content: `Hitokun's`,
+        // },
+        // {
+        //   key: `og:title`,
+        //   property: `og:title`,
+        //   content: `Hitokun's`,
+        // },
+        // {
+        //   key: `og:image`,
+        //   property: `og:image`,
+        //   content: `https://hitokun-s.github.io/images/self.jpg"}`,
+        // },
       ]
     }
   }

@@ -1,7 +1,7 @@
-const c1 = () => import(/* webpackChunkName: "page--src-pages-viz-kyusyu-at-night-vue" */ "C:\\Users\\jgpua\\Dropbox\\dev\\github\\mysite2\\src\\pages\\viz\\kyusyu-at-night.vue")
-const c2 = () => import(/* webpackChunkName: "page--src-pages-about-vue" */ "C:\\Users\\jgpua\\Dropbox\\dev\\github\\mysite2\\src\\pages\\about.vue")
-const c3 = () => import(/* webpackChunkName: "page--node-modules-gridsome-app-pages-404-vue" */ "C:\\Users\\jgpua\\Dropbox\\dev\\github\\mysite2\\node_modules\\gridsome\\app\\pages\\404.vue")
-const c4 = () => import(/* webpackChunkName: "page--src-pages-index-vue" */ "C:\\Users\\jgpua\\Dropbox\\dev\\github\\mysite2\\src\\pages\\index.vue")
+const c1 = () => import(/* webpackChunkName: "page--src-pages-viz-kyusyu-at-night-vue" */ "C:\\Users\\jgpua\\Dropbox\\dev\\github\\mysite\\src\\pages\\viz\\kyusyu-at-night.vue")
+const c2 = () => import(/* webpackChunkName: "page--src-pages-about-vue" */ "C:\\Users\\jgpua\\Dropbox\\dev\\github\\mysite\\src\\pages\\about.vue")
+const c3 = () => import(/* webpackChunkName: "page--node-modules-gridsome-app-pages-404-vue" */ "C:\\Users\\jgpua\\Dropbox\\dev\\github\\mysite\\node_modules\\gridsome\\app\\pages\\404.vue")
+const c4 = () => import(/* webpackChunkName: "page--src-pages-index-vue" */ "C:\\Users\\jgpua\\Dropbox\\dev\\github\\mysite\\src\\pages\\index.vue")
 
 export default [
   {

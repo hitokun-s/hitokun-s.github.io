@@ -60,7 +60,8 @@ export default {
       meta: {
         title: "Kyusyu at night",
         description: "Kyusyu at night （九州夜景）",
-        image: "kyusyu-at-night.png"
+        image: "kyusyu-at-night.png",
+        twittercard: "summary_large_image"
       }
     }
   },
