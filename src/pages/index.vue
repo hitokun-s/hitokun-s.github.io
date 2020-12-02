@@ -1,5 +1,5 @@
 <template>
-  <div>
+  <Layout>
     <section class="hero is-medium">
       <!--<section class="hero">-->
       <div class="hero-body">
@@ -7,7 +7,7 @@
           <div class="columns is-centered">
             <div class="column is-one-fifth">
               <figure class="image">
-                <img id="self-img" alt="self photo" class="is-rounded" src="images/self.png">
+                <img id="self-img" alt="self photo" class="is-rounded" src="/images/self.jpg">
               </figure>
             </div>
           </div>
@@ -46,7 +46,7 @@
       <!--</section>-->
       <Social />
     </section>
-  </div>
+  </Layout>
 </template>
 
 <script>
@@ -66,6 +66,16 @@
 
   export default {
     name: 'Top',
+    metaInfo() {
+      return {
+        title: "Hitokun's",
+        titleTemplate: null,
+        meta: [
+          { property: `og:locale`, content: `ja_JP` },
+          { key: `og:type`, property: `og:type`, content: `website` },
+        ]
+      }
+    },
     components: {Header, Footer, Social, FontAwesomeIcon},
     props: {
       msg: String
@@ -79,10 +89,6 @@
 </script>
 
 <style lang="scss">
-
-  #self-img{
-    border: 3px $primary-dark solid;
-  }
 
   .my-main{
     display: table !important;
