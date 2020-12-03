@@ -54,6 +54,11 @@ export default {
           name: 'twitter:site',
           content: "@hitokun-s"
         },
+        {
+          hid: 'fb:app_id',
+          property: 'fb:app_id',
+          content: "362864550832043"
+        },
       ]
     }
   }
