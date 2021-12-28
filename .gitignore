@@ -1,5 +1,0 @@
-*.iml
-.vite-ssg-temp/
-dist/
-node_modules/
-.idea/
