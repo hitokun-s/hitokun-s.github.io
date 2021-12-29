@@ -4,7 +4,6 @@
   "src/modules/nprogress.ts": [],
   "src/modules/pinia.ts": [],
   "vite/preload-helper": [],
-  "src/modules/pwa.ts": [],
   "../../../../../@vite-plugin-pages/generated-pages": [],
   "src/components/Header.vue?vue&type=style&index=0&lang.scss": [],
   "plugin-vue:export-helper": [],
@@ -132,38 +131,32 @@
   "node_modules/@fortawesome/free-solid-svg-icons/index.es.js": [
     "/assets/vendor.470d6a70.js"
   ],
-  "node_modules/workbox-window/build/workbox-window.prod.es5.mjs": [
-    "/assets/virtual_pwa-register.bbb77b58.js"
-  ],
-  "../../../../../@vite-plugin-pwa/virtual:pwa-register": [
-    "/assets/virtual_pwa-register.bbb77b58.js"
-  ],
   "src/md/about.md": [
-    "/assets/about.fd3839af.js",
+    "/assets/about.ae474231.js",
     "/assets/about.edea2646.css"
   ],
   "src/pages/about.vue?vue&type=style&index=0&lang.scss": [
-    "/assets/about.fd3839af.js",
+    "/assets/about.ae474231.js",
     "/assets/about.edea2646.css"
   ],
   "src/pages/about.vue": [
-    "/assets/about.fd3839af.js",
+    "/assets/about.ae474231.js",
     "/assets/about.edea2646.css"
   ],
   "node_modules/@fortawesome/free-brands-svg-icons/index.es.js": [
-    "/assets/self.c551ddbd.js",
+    "/assets/self.9b63afb9.js",
     "/assets/self.4fc5169b.css"
   ],
   "src/components/Social.vue?vue&type=style&index=0&lang.scss": [
-    "/assets/self.c551ddbd.js",
+    "/assets/self.9b63afb9.js",
     "/assets/self.4fc5169b.css"
   ],
   "src/components/Social.vue": [
-    "/assets/self.c551ddbd.js",
+    "/assets/self.9b63afb9.js",
     "/assets/self.4fc5169b.css"
   ],
   "../../../../../images/self.jpg": [
-    "/assets/self.c551ddbd.js",
+    "/assets/self.9b63afb9.js",
     "/assets/self.4fc5169b.css"
   ],
   "src/util.ts": [
@@ -176,23 +169,23 @@
     "/assets/about_old.1b797e6a.js"
   ],
   "src/pages/hoge.vue?vue&type=style&index=0&lang.scss": [
-    "/assets/hoge.a8d358a0.js",
+    "/assets/hoge.0ebe3730.js",
     "/assets/hoge.ef6e2d7f.css"
   ],
   "src/pages/hoge.vue?vue&type=route&index=0&lang.yaml": [
-    "/assets/hoge.a8d358a0.js",
+    "/assets/hoge.0ebe3730.js",
     "/assets/hoge.ef6e2d7f.css"
   ],
   "src/pages/hoge.vue": [
-    "/assets/hoge.a8d358a0.js",
+    "/assets/hoge.0ebe3730.js",
     "/assets/hoge.ef6e2d7f.css"
   ],
   "src/pages/Index.vue?vue&type=style&index=0&lang.scss": [
-    "/assets/Index.bf3c9b56.js",
+    "/assets/Index.8879753b.js",
     "/assets/Index.4924d9c5.css"
   ],
   "src/pages/Index.vue": [
-    "/assets/Index.bf3c9b56.js",
+    "/assets/Index.8879753b.js",
     "/assets/Index.4924d9c5.css"
   ],
   "~icons/carbon/campsite": [
@@ -208,36 +201,36 @@
     "/assets/README.f79c0b42.js"
   ],
   "src/pages/project/index.vue": [
-    "/assets/index.b8989fa1.js"
+    "/assets/index.85ed8aa3.js"
   ],
   "src/site.json": [
     "/assets/site.6f35d48f.js"
   ],
   "src/pages/viz/index.vue": [
-    "/assets/index.63af42e5.js"
+    "/assets/index.b8f943b9.js"
   ],
   "node_modules/leaflet/dist/leaflet.css": [
-    "/assets/kyusyu-at-night.7404ddbc.js",
+    "/assets/kyusyu-at-night.23839479.js",
     "/assets/kyusyu-at-night.e0e64c0a.css"
   ],
   "\u0000/home/runner/work/hitokun-s.github.io/hitokun-s.github.io/node_modules/plotty/src/plotty.js?commonjs-module": [
-    "/assets/kyusyu-at-night.7404ddbc.js",
+    "/assets/kyusyu-at-night.23839479.js",
     "/assets/kyusyu-at-night.e0e64c0a.css"
   ],
   "node_modules/plotty/src/plotty.js": [
-    "/assets/kyusyu-at-night.7404ddbc.js",
+    "/assets/kyusyu-at-night.23839479.js",
     "/assets/kyusyu-at-night.e0e64c0a.css"
   ],
   "src/pages/viz/kyusyu-at-night.vue?vue&type=style&index=0&lang.scss": [
-    "/assets/kyusyu-at-night.7404ddbc.js",
+    "/assets/kyusyu-at-night.23839479.js",
     "/assets/kyusyu-at-night.e0e64c0a.css"
   ],
   "src/pages/viz/kyusyu-at-night.vue?vue&type=route&index=0&lang.yaml": [
-    "/assets/kyusyu-at-night.7404ddbc.js",
+    "/assets/kyusyu-at-night.23839479.js",
     "/assets/kyusyu-at-night.e0e64c0a.css"
   ],
   "src/pages/viz/kyusyu-at-night.vue": [
-    "/assets/kyusyu-at-night.7404ddbc.js",
+    "/assets/kyusyu-at-night.23839479.js",
     "/assets/kyusyu-at-night.e0e64c0a.css"
   ],
   "~icons/carbon/pedestrian": [
@@ -259,11 +252,11 @@
     "/assets/404.9074f029.js"
   ],
   "src/layouts/hhh.vue?vue&type=style&index=0&lang.css": [
-    "/assets/hhh.4bdd1be5.js",
+    "/assets/hhh.a8f446b7.js",
     "/assets/hhh.ade0a6d7.css"
   ],
   "src/layouts/hhh.vue": [
-    "/assets/hhh.4bdd1be5.js",
+    "/assets/hhh.a8f446b7.js",
     "/assets/hhh.ade0a6d7.css"
   ],
   "\u0000/home/runner/work/hitokun-s.github.io/hitokun-s.github.io/node_modules/leaflet/dist/leaflet-src.js?commonjs-module": [
@@ -381,10 +374,10 @@
     "/assets/leaflet-geotiff.aa0b1094.js"
   ],
   "\u0000/home/runner/work/hitokun-s.github.io/hitokun-s.github.io/node_modules/leaflet-geotiff/leaflet-geotiff-plotty.js?commonjs-module": [
-    "/assets/leaflet-geotiff-plotty.a7eeae69.js"
+    "/assets/leaflet-geotiff-plotty.77932c31.js"
   ],
   "node_modules/leaflet-geotiff/leaflet-geotiff-plotty.js": [
-    "/assets/leaflet-geotiff-plotty.a7eeae69.js"
+    "/assets/leaflet-geotiff-plotty.77932c31.js"
   ],
   "\u0000/home/runner/work/hitokun-s.github.io/hitokun-s.github.io/node_modules/georaster/dist/georaster.browser.bundle.min.js?commonjs-module": [
     "/assets/georaster.browser.bundle.min.7903a395.js"
