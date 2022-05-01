@@ -1,1 +1,0 @@
-import{A as v,s as r,B as o}from"./vendor.d6f5ed9a.js";const m=v("user",()=>{const e=r(""),a=r(new Set),t=o(()=>Array.from(a.value)),u=o(()=>t.value.filter(s=>s!==e.value));function n(s){e.value&&a.value.add(e.value),e.value=s}return{setNewName:n,otherNames:u,savedName:e}});export{m as u};
