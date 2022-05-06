@@ -1,1 +1,0 @@
-import{_}from"./app.a590b11f.js";import{o as r,b as t}from"./vendor.90d189c3.js";var e={};const o={},c={class:"hoge"};function a(n,s){return r(),t("div",c)}typeof e=="function"&&e(o);var p=_(o,[["render",a]]);export{p as default};
